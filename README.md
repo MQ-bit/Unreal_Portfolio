@@ -12,10 +12,11 @@
 
 Warrior는 Unreal Engine 5.4 기반으로 제작한 3D 액션 RPG / 웨이브 서바이벌 프로토타입입니다.
 
-기본 캐릭터 동작을 비롯해 스킬 시스템, 몬스터 오브젝트 풀, 미션, 보스 전투, 
-Level Sequence, UMG UI 등 전반적인 전투 콘텐츠를 구현했습니다.
+기본 캐릭터 동작을 비롯해 스킬 시스템, 몬스터 오브젝트 풀, 미션, 보스 전투
+,Level Sequence, UMG UI 등 전반적인 전투 콘텐츠를 구현했습니다.
 
-📽 **[시연 영상 확인
+📽 **[시연 영상 확인  
+
 📜 **[기술 문서 확인]
 
 * * *
@@ -31,7 +32,7 @@ Level Sequence, UMG UI 등 전반적인 전투 콘텐츠를 구현했습니다.
 - AI
 - DataTable
 - SaveGame
-- NavigationSystem
+
 
 * * *
 
