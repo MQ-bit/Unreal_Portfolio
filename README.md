@@ -1,4 +1,4 @@
-# 🎮 Warrior - Unreal Engine Portfolio
+# 🎮 Dungeon Warrior - Unreal Engine Portfolio
 
 - 언리얼 엔진 개인 포트폴리오 프로젝트
 - 프로젝트명: Warrior
@@ -10,7 +10,7 @@
 
 ## 📌 프로젝트 소개
 
-Warrior는 Unreal Engine 5.4 기반으로 제작한 3D 액션 RPG / 웨이브 서바이벌 프로토타입입니다.
+Dungeon Warrior는 Unreal Engine 5.4 기반으로 제작한 3D 액션 RPG / 웨이브 서바이벌 프로토타입입니다.
 
 기본 캐릭터 동작을 비롯해 스킬 시스템, 몬스터 오브젝트 풀, 미션, 보스 전투
 ,Level Sequence, UMG UI 등 전반적인 전투 콘텐츠를 구현했습니다.
