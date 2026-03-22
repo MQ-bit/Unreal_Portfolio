@@ -1,10 +1,10 @@
 # 🎮 Warrior - Unreal Engine Portfolio
 
-> 언리얼 엔진 개인 포트폴리오 프로젝트
-> 프로젝트명: Warrior
-> 개발 형태: 1인 개발
-> 사용 엔진: Unreal Engine 5.4
-> 개발 언어: C++
+- 언리얼 엔진 개인 포트폴리오 프로젝트
+- 프로젝트명: Warrior
+- 개발 형태: 1인 개발
+- 사용 엔진: Unreal Engine 5.4
+- 개발 언어: C++
 
 * * *
 
