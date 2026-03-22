@@ -19,6 +19,7 @@ https://youtu.be/KUoWcPJ1syo
 
 📜[기술 문서 확인]
 https://naver.me/F8lLjVdk
+https://github.com/MQ-bit/Unreal_Portfolio/blob/main/Details.md
 * * *
 
 ## 🛠 기술 스택
