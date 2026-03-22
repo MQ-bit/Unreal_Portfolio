@@ -1,0 +1,34 @@
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Temp/
+
+# IDE and local tooling
+.vs/
+.vscode/
+vc-ue-extensions/
+.ignore
+
+# Generated project files
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.tmp
+
+# Build outputs
+*.pdb
+*.obj
+*.o
+*.lib
+*.exp
+*.dll
+*.exe
+
+# Logs and local metadata
+*.log
+*.cache
